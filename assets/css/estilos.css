@@ -11,6 +11,9 @@ body {
   background-position: left;
 }
 
+.logo {
+  height: 40px;
+}
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
